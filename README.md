@@ -10,3 +10,8 @@
 ```python
 print("Hello World")
 ```
+
+Numbered points
+1. Point1
+2. Point2
+3. Point3
