@@ -2,6 +2,10 @@
 
 ## Heading2 
 
+### Heading3 
+
+#### Heading 4
+
 * This is a bullet point
 * This is in **Bold**
 * This is in _italic_
